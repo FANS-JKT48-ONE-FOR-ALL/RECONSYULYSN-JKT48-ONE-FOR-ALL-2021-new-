@@ -20,7 +20,7 @@ _Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Denga
 11. Chaterine Yohana B = Anin
 12. Gjp = Jesslyn Callista
 13. Danang = Jinan, Chika
-14. Afif : Gaby,Shani
+14. Afif = Gaby,Shani
 15. Suhendra = Feni
 16. Ma'ruf Atmojo = Anin , Gaby , Celine , Eli
 17. Ayu = Freya
