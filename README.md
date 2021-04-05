@@ -31,4 +31,4 @@ _Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Denga
 21. Wisnu = Celine , Mira
 22. Wahyu : shani, anin, cinhap
 23. Erlang : Fiony ALveria tantri
-24.Dana Karyadiansyah = Flora , Fiony , Freya
+24. Dana Karyadiansyah = Flora , Fiony , Freya
