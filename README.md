@@ -37,3 +37,4 @@ _Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Denga
 28. YULIANTI = shani gracia zee eve celine marsha
 29. Fauzi = Freya, Fiony, Celine, Christy
 30. Fajar sang idola = SisJ, freya, indah, eli
+31. Afita Sima = shani,gracia,anin,Chika
