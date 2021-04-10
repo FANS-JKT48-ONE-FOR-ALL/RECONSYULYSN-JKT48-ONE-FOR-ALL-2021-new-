@@ -1,40 +1,19 @@
 # START-UP
-#go-set-up-list 05.04.2021
+#go-set-up-list 10.04.2021
 
 DAFTAR ABSEN ANGGOTA GRUP *FANS JKT48 ONE FOR ALL* 2021 ( new ) : *_©github.inc_*
 
-SENIN. 05 APRIL 2021
+SABTU. 10 APRIL 2021        *[ _ON PROGRESS_ ]*
 
-_Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Dengan Benar_ : 
+_Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Dengan Benar_ :
 
-01. Moch Habiburrokhim = Anin , gracia , celine , feni
-02. Ciaaa = flora
-03. Alimin = Christy, Fiony 
-04. Afrillian Ilham Pradana = Shani, Gracia, Anin, Gaby, Chika
+01. Moch Habiburrokhim = Anin , gracia , celine , feni , ara
+02. Afrillian Ilham Pradana = Shani, Gracia, Anin, Gaby, Chika
+03. Alimin = Christy, Fiony
+04. Aria Dera : -
 05. Pasha Pradana Naim = Gabriela Margaret Warouw
-06. Syarif hidayatullah = Shani indira natio
-07. Diki = Feni. Shani. Christy. Freya. Fiony. Celine. Cinhap
-08. DobbyMR = Cindy Hapsari, Angelina Christy, Gaby
-09. Aria Dera = -
-10. M. Renaldi Nugraha = Beby Chaesara Anadila
-11. Chaterine Yohana B = Anin
-12. Gjp = Jesslyn Callista
-13. Danang = Jinan, Chika
-14. Afif = Gaby,Shani
-15. Suhendra = Feni
-16. Ma'ruf Atmojo = Anin , Gaby , Celine , Eli
-17. Ayu = Freya
-18. Angka = Chika , Fiony , Marsha
-19. Yogawp = greshan , mira , chika , marsha
-20. Ramdhan suwandi = Shani Indira Natio
-21. Wisnu = Celine , Mira
-22. Wahyu = shani , anin , cinhap
-23. Erlang = Fiony ALveria tantri
-24. Dana Karyadiansyah = Flora , Fiony , Freya
-25. Adecha = Shani , Fiony
-26. lutfie = melody frieska
-27. Wisnu Ngrh = Freya , Ara
-28. YULIANTI = shani gracia zee eve celine marsha
-29. Fauzi = Freya, Fiony, Celine, Christy
-30. Fajar sang idola = SisJ, freya, indah, eli
-31. Afita Sima = shani,gracia,anin,Chika
+06. Rivanda Yugatama = Shani, Indah
+07. Erlang = Fiony ALveria tantri
+08. Yoga wp = greshan, chika, mira, marsha
+09. Wahyu = shani, anin, cinhap
+10. Wisnu = Celine, Mira, Fiony, Oniel
