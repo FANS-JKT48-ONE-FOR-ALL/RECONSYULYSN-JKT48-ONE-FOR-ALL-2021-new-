@@ -1,16 +1,15 @@
 #START-UP
 #go-set-up-list 12.04.2021
 
-Code               = 001
-Issues             = -
-Pull request       = 01
-Actions            = 014
-Projects           = -
-Wiki               = -
-Security           = ******
-Insights           = -
-Settings           = default
-
+Code = 001 
+Issues = - 
+Pull request = 01 
+Actions = 014 
+Projects = - 
+Wiki = - 
+Security = ****** 
+Insights = - 
+Settings = default
 
 DAFTAR ABSEN ANGGOTA GRUP *FANS JKT48 ONE FOR ALL* 2021 ( new ) : *_©github.inc_*
 
