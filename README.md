@@ -16,7 +16,7 @@ _Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Denga
 07. Herdy = Ara
 08. Handy = Citra sekolastika
 09. Afrillian Ilham Pradana = Shani, Gracia, Anin, Gaby, Chika
-10.Dana Karyadiansyah = Flora,Fiony,Freya
+10. Dana Karyadiansyah = Flora , Fiony , Freya
 11. M Renaldi Nugraha = Beby Chaesara Anadila
 12. Alimin = Christy, Fiony
 13. Ma'ruf Atmojo Supriatna = Eli, Anin, Gaby, Celine, Gracia
