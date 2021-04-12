@@ -24,10 +24,10 @@ _Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Denga
 15. Syarif hidayatullah = Shani indira natio
 16. virus ngidol33 = Shania gracia , shani indira natio , Gabriela  Margaret warauw
 17. Wahyu = shani, anin, cinhap
-18.Leonardo = Gracia
-19.lutfie melody = anin .gree  celine .frieska.zee .aya. eve.
-20.arwin = Jesslyn
-21.Fauzi = Freya, Fiony, Celine, Christy
+18. Leonardo = Gracia
+19. lutfie melody = anin .gree  celine .frieska.zee .aya. eve.
+20. arwin = Jesslyn
+21. Fauzi = Freya, Fiony, Celine, Christy
 22. Haidar Qois = fiony, Freya,
 23. Angka = Chika,Fiony,Marsha
 24. Wisnu Ngrh = Freya, Ara
