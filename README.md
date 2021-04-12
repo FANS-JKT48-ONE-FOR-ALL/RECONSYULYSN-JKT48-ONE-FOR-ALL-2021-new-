@@ -3,7 +3,7 @@
 
 DAFTAR ABSEN ANGGOTA GRUP *FANS JKT48 ONE FOR ALL* 2021 ( new ) : *_©github.inc_*
 
-SENIN. 12 APRIL 2021
+SENIN. 12 APRIL 2021        *[ _ON PROGRESS_ ]*
 
 _Silahkan Tulis Nomor Urut, Nama Lengkap Dan Nama Oshi Kalian Di Bawah Ini Dengan Benar_ :
 
